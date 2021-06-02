@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: petclinic 
-        image: remawail/spring-petclinic:petclinic 
+        image: naderha/spring-petclinic:petclinic 
         ports:
         - containerPort: 8080 
 ---
