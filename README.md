@@ -25,8 +25,6 @@ http://localhost:8080/
 
 ```
 
-### This should lead you to this page :
 
-![image](https://github.com/remaegbaria/petclinic-k8s/blob/main/petclinic.png)
 
-# hw7-k8s
+
