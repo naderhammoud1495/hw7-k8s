@@ -1,6 +1,6 @@
-# petclinic-k8s
+# hw7-k8s
 
-this code create a deployment and service for petclinic project in kubernetes.
+To create a deployment and service for petclinic project in kubernetes.
 
 
 ## Usage
